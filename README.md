@@ -21,7 +21,10 @@
   </h1>
   <p dir="auto">
     Hi! my name is Omar Rojas. I'm Web Developer who codes
-    <strong>incredible digital experiences</strong>.
+    <strong
+      >incredible digital experiences. Engineer by profession, Self-taught by
+      vocation. Passionate about Innovation and Digital Transformation.</strong
+    >.
     <g-emoji
       class="g-emoji"
       alias="computer"
@@ -271,18 +274,3 @@
     business, <a href="mailto:orojas3095@gmail.com">contact me!</a>
   </p>
 </article>
-
-<!--
-**omarrojasochoa/omarrojasochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
