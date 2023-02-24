@@ -183,7 +183,6 @@
         </g>
       </svg>
     </a>
-
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       rel="nofollow"
